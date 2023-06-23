@@ -20,6 +20,6 @@ FOV- Feild of View
 
 0045 the terms device and operators are not limited to one or a specific number of physical objects such as one smartphone one camera controller one processing system and so on as used here in your device may be any electronic device with one or more parts that may implement at least some portions of the disclosure while the below description and examples use the term device to describe various aspects of the disclosure the term device is not limited to a specific configuration type or number of objects as used herein an apparatus may include a device or a portion for performing the described operations
 
-Demosaicing
+Demosaicing (Source -> Wikipedia https://en.wikipedia.org/wiki/Demosaicing)
 
 A demosaicing (also de-mosaicing, demosaicking or debayering) algorithm is a digital image process used to reconstruct a full color image from the incomplete color samples output from an image sensor overlaid with a color filter array (CFA). It is also known as CFA interpolation or color reconstruction. Most modern digital cameras acquire images using a single image sensor overlaid with a CFA, so demosaicing is part of the processing pipeline required to render these images into a viewable format. Many modern digital cameras can save images in a raw format allowing the user to demosaic them using software, rather than using the camera's built-in firmware.
